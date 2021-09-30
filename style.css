@@ -96,7 +96,7 @@ html {
   background-color: #000;
 }
 nav li {
-  float: left;
+  float: inline;
 }
 
 nav {
@@ -258,7 +258,7 @@ a {
 }
 
 a:hover {
-  color: #212121;
+  color: #c40e0e;
 }
 
 mark {
