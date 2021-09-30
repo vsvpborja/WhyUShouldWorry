@@ -93,11 +93,11 @@ html {
   padding: 1em;
   margin: 0;
   overflow-x: hidden;
-  background-color: #000;
+  background-color: rgb(7, 6, 6);
 }
 nav li {
   display: inline;
-  margin: 0 1em
+  margin: 0 1em;
 }
 
 nav {
