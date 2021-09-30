@@ -85,7 +85,7 @@ mark,
 audio,
 video {
   font-family: "Nunito", sans-serif;
-  color: #0a803b;
+  color: #1e8348;
 }
 
 body,
@@ -93,7 +93,7 @@ html {
   padding: 1em;
   margin: 0;
   overflow-x: hidden;
-  background-color: rgb(26, 20, 20);
+  background-color: rgb(36, 17, 17);
 }
 nav li {
   display: inline;
