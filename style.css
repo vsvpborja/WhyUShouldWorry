@@ -333,8 +333,9 @@ div[overflow] ::-webkit-scrollbar {
 }
 
 img {
-  max-width: 45%;
-  border-radius: 10px;
+    max-height: 50%;
+  max-width: 25%;
+  border-radius: 4px;
 }
 
 form div {
