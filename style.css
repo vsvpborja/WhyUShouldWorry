@@ -138,6 +138,11 @@ nav div {
 
 nav div ul li {
     padding: 2em;
+    text-decoration: none;
+
+}
+
+a:link { text-decoration: none!important;
 
 }
 
